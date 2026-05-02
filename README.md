@@ -68,4 +68,4 @@ Tracks how many patients are admitted vs discharged.
 - Supports data-driven hospital decisions  
 
 ## 🖼️ Screenshots / Demos  
-Hospital Emergency Room Dashboard: https://github.com/sanikag99/Hospital-Emergency-Room-Dashboard
+![Hospital Emergency Room Dashboard](https://github.com/sanikag99/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20of%20Hospital%20Emergency%20Room%20Dashboard.png)
